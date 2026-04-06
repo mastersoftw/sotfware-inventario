@@ -1,2 +1,2 @@
-# soffware-inventario
-proyecto de soffware para el inventario de tu empresa
+# sotfware-inventario
+proyecto de sotfware para el inventario de tu empresa
